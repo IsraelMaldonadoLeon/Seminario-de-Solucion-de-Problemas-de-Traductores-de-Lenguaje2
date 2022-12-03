@@ -2,8 +2,7 @@
 Mini Analizador Lexico: Este pequeño programa analiza una cadena y determina si esta es una cadena simple o si es un entero o flotante. imagenimagen
 
 Analizador Léxico / Modulo 1: Utilice el código que el profesor compartió previamente como base del analizador léxico, primero lo analice para comprender cómo funcionaba y que era lo que hacia y después proseguí a hacer cambios como borrar ciertas funciones que no utilizaba, y que analizara palabra por palabra en lugar de caracter por caracter; así mismo agregue más palabras reservadas y finalmente arregle un error que tenía el código original en el cual analizó basura del sistema es decir no se detenía donde terminaba la cadena que el usuario le daba.
-
-imagen
+![2Szbrjy1d7](https://user-images.githubusercontent.com/111924527/205465045-df18a693-687b-4e19-8603-31c28bd24b44.png)
 
 Analizador sintactico Modulo 2: Generar un algoritmo para analizar los Ejercicios 1 y 2 del archivo (PracticaAnalizadorSintactico.pdf) Este analizador sintactico se basa en una pila de enteros que es la que va guardando el estado y las reglas con forme se va analizando la cadena hasta que llegamos a un estado de aceptacion Entrada para el Ejercicio 1 hola+mundo
 
